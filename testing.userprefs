@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="testing/testing.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="firefox-esr" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testing/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="testing/Controllers/HomeController.cs" Line="23" Column="78" />
+      <File FileName="testing/Views/Home/Index.cshtml" Line="3" Column="28" />
+      <File FileName="testing/Models/Employee.cs" Line="3" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

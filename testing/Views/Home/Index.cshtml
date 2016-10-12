@@ -1,0 +1,18 @@
+﻿<h2>Welcome to ASP.NET MVC @ViewData["Version"] on @ViewData["Runtime"]!</h2>
+
+@model IEnumerable<testing.Employee> 
+   <html>
+  <head>
+            <title>Employee Index Page</title>
+  </head>
+  <body>
+     <div>
+         <h1>Employee (Using Model)</h1>
+         <div>
+           @foreach(var employee in Model){
+                   <p>@employee.EmpID  @employee.EmpFirstName  @employee.EmpLastName</p>
+           }
+         </div>
+     </div>
+  </body>
+  </html>

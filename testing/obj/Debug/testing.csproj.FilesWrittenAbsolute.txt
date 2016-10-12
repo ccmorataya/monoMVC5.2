@@ -1,0 +1,12 @@
+/home/kali/projects/mono/testing/testing/testing/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/kali/projects/mono/testing/testing/testing/bin/testing.dll.mdb
+/home/kali/projects/mono/testing/testing/testing/bin/testing.dll
+/home/kali/projects/mono/testing/testing/testing/obj/Debug/testing.dll
+/home/kali/projects/mono/testing/testing/testing/obj/Debug/testing.dll.mdb
+/home/kali/projects/mono/testing/testing/testing/bin/Microsoft.Web.Infrastructure.dll
+/home/kali/projects/mono/testing/testing/testing/bin/System.Web.Razor.dll
+/home/kali/projects/mono/testing/testing/testing/bin/System.Web.Helpers.dll
+/home/kali/projects/mono/testing/testing/testing/bin/System.Web.WebPages.dll
+/home/kali/projects/mono/testing/testing/testing/bin/System.Web.WebPages.Deployment.dll
+/home/kali/projects/mono/testing/testing/testing/bin/System.Web.WebPages.Razor.dll
+/home/kali/projects/mono/testing/testing/testing/bin/System.Web.Mvc.dll
